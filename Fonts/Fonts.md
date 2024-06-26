@@ -4,7 +4,7 @@ Arial Rounded Bold - Used For Sick Beats
 Fontworks Fonts
 ├── FOT-KurokaneStd-EB.otf.ttf - RHM Font. Not used currently
 ├── FOT-NewCinemaAStd-D.otf - RHM Font. Not used currently
-├── FOT-OedKtrStd-E.otf - RHM Font. Used For The☆Bon Odori 
+├── FOT-OedKtrStd-E.otf - RHM Font. Used For The☆Bon Odori And Iai Giri
 ├── FOT-RodinNTLGPro-DB.otf.ttf - Main Nintendo Font. Not used currently
 └── FOT-SlumpStd-DB-SVG.ttf  - RHM Font. Used for Some Menus
 Planks - Used For Marching Orders
