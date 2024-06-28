@@ -7,7 +7,7 @@ Arial Rounded Bold - Used For Sick Beats
 
 Kurokane - RHM Font. Not used currently
 
-New Cinema - RHM Font. Used on some random menu graphic.
+New Cinema - RHM Font. Used on some random menu graphic and Fireworks.
 
 OedKtr - RHM Font. Used For The☆Bon Odori And Iai Giri
 
